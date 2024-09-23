@@ -1,4 +1,5 @@
-@import './font.css';
+@import 'font.css';
+@import 'reset.css'; 
 
 * {
    font-family: "Helvetica Light";
@@ -40,9 +41,9 @@
 
 @media (max-width: 800px) {
    .product-container {
-         padding-top: 40px;
-        
-      }
+      padding-top: 40px;
+
+   }
 }
 
 .product {
@@ -108,9 +109,9 @@
 }
 
 @media (max-width: 800px) {
-.FAQ-section {
+   .FAQ-section {
       padding-top: 100px;
-   gap: 40px;
+      gap: 40px;
    }
 }
 
@@ -215,19 +216,20 @@
 
    .question {
       max-width: 100%;
-      
+
    }
 
 }
 
 
 @media (max-width: 800px) {
-.btn-wrapp__btn {
+   .btn-wrapp__btn {
       width: 18px;
       height: 18px;
    }
 
 }
+
 /* ============ keyframes ============ */
 
 @keyframes animBack {
