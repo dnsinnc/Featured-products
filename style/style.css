@@ -105,6 +105,7 @@
    gap: 80px;
    justify-content: center;
    padding-bottom: 40px;
+   align-items: baseline;
 
 }
 
@@ -117,6 +118,7 @@
 
 .FAQ {
    width: 50%;
+
 }
 
 .FAQ div {
