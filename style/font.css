@@ -1,9 +1,9 @@
 @font-face {
    font-family: 'Helvetica Bold';
-   src: url('/fonts/helvetica-neue-5/HelveticaNeueBold.otf') format('otf'),
+   src: url('/fonts/helvetica-neue-5/HelveticaNeueBold.otf') ,
 }
 
 @font-face {
    font-family: "Helvetica Light";
-   src: url('/fonts/helvetica-neue-5/HelveticaNeueLight.otf') format('otf');
+   src: url('/fonts/helvetica-neue-5/HelveticaNeueLight.otf') ;
 }
